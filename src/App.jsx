@@ -52,7 +52,7 @@ AOS.init();
             <p className='caracteristicas'>Detallista</p>
           </div>
         </section>
-        <section className='section2'>
+        <section className='section2' data-aos="fade-up">
           <p className='letra'>🎵 I was enchanted to meet you</p>
           <p className='letra'>🎵 Please don't be in love with someone else</p>
           <p className='letra'>🎵 Please don't have somebody waiting on you</p>
