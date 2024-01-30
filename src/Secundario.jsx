@@ -38,6 +38,7 @@ const el = useRef(null);
     "Y solo me queda decirte hasta la proxima vida, mi amor.",
     "Tu siempre estarás aqui, tatuada en mi alma, así como las entrellas en el cielo.",
     "Hablar evita sobrepensar.",
+    "Sobreprotegerte nunca fue un error.",
     "Me enamoró la forma en que descubriste el camino para cambiarme desde adentro.",
     "Te elegía constantemente.",
     "Recordemos con una sonrisa.",
