@@ -45,6 +45,7 @@ const el = useRef(null);
     "Recordemos con una sonrisa.",
     "¿Odiarte?",
     "Gracias por enseñarme tanto.",
+    'Una vida monótona de emociones predeterminadas hasta que conoces a esa persona por la cual estás "encantado de conocer"',
     "Poder decir adios, es crecer.",
     "Cuanto amor me costó perderte...",
     "Yo te amaba en serio.",
