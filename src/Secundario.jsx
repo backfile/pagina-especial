@@ -8,13 +8,14 @@ import imagen6 from "./foto6.jpg"
 import imagen7 from "./foto7.jpg"
 import useSound from "use-sound"
 import sonido from "./rosas.mp3"
+import sonido2 from "./enchanted.mp3"
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 import './App.css'
 import Typed from 'typed.js';
 
 export function Secundario() {
-const [playSound] = useSound(sonido)
+const [playSound] = useSound(sonido2)
 playSound()
 
 AOS.init();
