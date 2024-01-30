@@ -15,6 +15,7 @@ import Typed from 'typed.js';
 
 export function Secundario() {
 const [playSound] = useSound(sonido)
+playSound()
 
 AOS.init();
 
@@ -49,7 +50,7 @@ const el = useRef(null);
 
   ]
 
-  playSound()
+  
 
   useEffect(() => {
  
