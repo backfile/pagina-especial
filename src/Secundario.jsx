@@ -25,7 +25,7 @@ const el = useRef(null);
   const frases = [
     'Mientras esto exista, mi amor por vos tambien lo hará...',
     "Nunca me voy a arrepentir de haberte elegido.",
-    "A veces hacemos cosas incorrectas por razones correctas",
+    "A veces hacemos cosas incorrectas por razones correctas.",
     "Que nada ni nadie ponga en duda el amor que te tuve.",
     "Lo importante no es no cometer errores, lo importante es saber aprender de ellos.",
     "Sos un quilombo hermoso.",
@@ -34,7 +34,7 @@ const el = useRef(null);
     "Te pudiste equivocar en muchas cosas en la vida, pero nunca en confiar en mi.",
     "El amor nos hace querer ser mejores.",
     "Vos ya te fuiste, pero yo sigo aca.",
-    "Te prometí que siempre ibas a ser vos, y aca estoy... sin vos.. pero cumpliendo la promesa.",
+    "Te prometí que siempre ibas a ser vos, y aca estoy... sin vos... pero cumpliendo la promesa.",
     "La excelencia no es ser el mejor, sino ser mejor de lo que eras ayer.",
     "Y solo me queda decirte hasta la proxima vida, mi amor.",
     "Tu siempre estarás aqui, tatuada en mi alma, así como las entrellas en el cielo.",
@@ -49,7 +49,7 @@ const el = useRef(null);
     "Cuanto amor me costó perderte...",
     "Yo te amaba en serio.",
     "Siempre te escogería a ti.",
-    "La vida son experiencias, tenemos que saber aprender de ellas",
+    "La vida son experiencias, tenemos que saber aprender de ellas.",
     "Si es un amor real jamás se dará por vencido."
   ]
 
