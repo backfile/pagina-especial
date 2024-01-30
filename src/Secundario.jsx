@@ -34,7 +34,7 @@ const el = useRef(null);
     "El amor nos hace querer ser mejores.",
     "¿Cuanto tiempo me esperarias?",
     "Vos ya te fuiste, pero yo sigo aca.",
-    "Te prometí que siempre ibas a ser vos, y aca estoy... sin vos.. pero compliendo la promesa.",
+    "Te prometí que siempre ibas a ser vos, y aca estoy... sin vos.. pero cumpliendo la promesa.",
     "Yo sí te esperaria como la loca del muelle de San Blas.",
     "Y solo me queda decirte hasta la proxima vida, mi amor.",
     "Tu siempre estarás aqui, tatuada en mi alma, así como las entrellas en el cielo.",
