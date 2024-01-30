@@ -26,15 +26,14 @@ const el = useRef(null);
     'Mientras esto exista, mi amor por vos tambien lo hará... ♾',
     "Nunca me voy a arrepentir de haberte elegido 💖",
     "Que nada ni nadie ponga en duda el amor que te tuve.",
+    "Lo importante no es no cometer errores, lo importante es saber aprender de ellos",
+    "Lo importante es que te ame alguien que tiene OPCIONES",
     "Sos un quilombo hermoso.",
     "Mi imperio romano fue saber que si algún dia se me daba con vos, te haría la mujer mas feliz de la tierra.",
     "Te pudiste equivocar en muchas cosas en la vida, pero nunca en confiar en mi.",
-    "Y es que empiezo a pensar que el amor verdadero es tan sólo el primero y es que empiezo a sospechar que los demás son sólo para olvidar 🌹🎵",
     "El amor nos hace querer ser mejores.",
     "¿Cuanto tiempo me esperarias?",
     "Vos ya te fuiste, pero yo sigo aca.",
-    "¿Donde esta el amor?",
-    "No te logré recuperar :(",
     "Te prometí que siempre ibas a ser vos, y aca estoy... sin vos.. pero compliendo la promesa.",
     "Yo sí te esperaria como la loca del muelle de San Blas.",
     "Y solo me queda decirte hasta la proxima vida, mi amor.",
@@ -47,8 +46,8 @@ const el = useRef(null);
     "Cuanto amor me costó perderte...",
     "Yo te amaba en serio.",
     "Siempre te escogería a ti.",
+    "La vida son experiencias, tenemos que saber aprender de ellas",
     "Si es un amor real jamás se dará por vencido."
-
   ]
 
   
