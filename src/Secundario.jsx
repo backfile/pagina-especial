@@ -23,7 +23,6 @@ AOS.init();
 const el = useRef(null);
 
   const frases = [
-    'Mientras esto exista, mi amor por vos tambien lo hará...',
     "Nunca me voy a arrepentir de haberte elegido.",
     "A veces hacemos cosas incorrectas por razones correctas.",
     "Que nada ni nadie ponga en duda el amor que te tuve.",
