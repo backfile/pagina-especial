@@ -40,16 +40,19 @@ const el = useRef(null);
     "Sobreprotegerte nunca fue un error.",
     "Me enamoró la forma en que descubriste el camino para cambiarme desde adentro.",
     "Te elegía constantemente.",
+    "Solo intentaba proteger la relación, nunca lo dudes.",
+    "Jamás dudes de cuales eran mis intenciones :D",
     "Recordemos con una sonrisa.",
     "¿Odiarte?",
     "Gracias por enseñarme tanto.",
     "Te voy a llevar en mi ♥",
     'Una vida monótona de emociones predeterminadas hasta que conoces a esa persona por la cual estás "encantado de conocer".',
     "Poder decir adios, es crecer.",
-    "Cuanto amor me costó perderte...",
     "Yo te amaba en serio.",
     "Siempre te escogería a ti.",
     "La vida son experiencias, tenemos que saber aprender de ellas.",
+    "El tiempo no es un problema para mi.",
+    "A mi me enseñaron a pelear por aquello que merece la pena.",
     "Si es un amor real jamás se dará por vencido."
   ]
 
