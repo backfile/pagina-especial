@@ -43,7 +43,6 @@ const el = useRef(null);
     "Solo intentaba proteger la relación, nunca lo dudes.",
     "Jamás dudes de cuales eran mis intenciones :D",
     "Recordemos con una sonrisa.",
-    "¿Odiarte?",
     "Gracias por enseñarme tanto.",
     "Te voy a llevar en mi ♥",
     'Una vida monótona de emociones predeterminadas hasta que conoces a esa persona por la cual estás "encantado de conocer".',
@@ -53,6 +52,7 @@ const el = useRef(null);
     "La vida son experiencias, tenemos que saber aprender de ellas.",
     "El tiempo no es un problema para mi.",
     "A mi me enseñaron a pelear por aquello que merece la pena.",
+    "No lo tomes personal, simplemente era algo de lo que yo no quería hablar ni con vos ni con NADIE ☺.",
     "Si es un amor real jamás se dará por vencido."
   ]
 
