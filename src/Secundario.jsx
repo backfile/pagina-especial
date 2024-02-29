@@ -40,7 +40,6 @@ const el = useRef(null);
     "Sobreprotegerte nunca fue un error.",
     "Me enamoró la forma en que descubriste el camino para cambiarme desde adentro.",
     "Te elegía constantemente.",
-    "Solo intentaba proteger la relación, nunca lo dudes.",
     "Jamás dudes de cuales eran mis intenciones :D",
     "Recordemos con una sonrisa.",
     "Gracias por enseñarme tanto.",
@@ -50,9 +49,7 @@ const el = useRef(null);
     "Yo te amaba en serio.",
     "Siempre te escogería a ti.",
     "La vida son experiencias, tenemos que saber aprender de ellas.",
-    "El tiempo no es un problema para mi.",
     "A mi me enseñaron a pelear por aquello que merece la pena.",
-    "No lo tomes personal, simplemente era algo de lo que yo no quería hablar ni con vos ni con NADIE ☺.",
     "Si es un amor real jamás se dará por vencido."
   ]
 
